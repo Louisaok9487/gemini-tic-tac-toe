@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tic-Tac-Toe",
+  "description": "A stylish Tic-Tac-Toe game where you can challenge a powerful AI opponent powered by the Gemini API. Features a sleek, modern interface and intelligent AI gameplay.",
+  "requestFramePermissions": []
+}
